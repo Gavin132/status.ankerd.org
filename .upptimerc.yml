@@ -3,15 +3,19 @@ owner: Gavin132 # Your GitHub organization or username, where this repository li
 repo: status.ankerd.org # The name of this repository
 
 sites:
-  - name: Main website
+  - name: ankerd.nl - Main website
     url: https://ankerd.nl
-  - name: Con App
+  - name: pws.ankerd.nl - A Mandelbrot simulation site
     url: https://con.ankerd.org
-  - name: Con App BETA
+  - name: soc.ankerd.nl - Scheikunde moppen
+    url: https://con.ankerd.org
+  - name: con.ankerd.org - Convention management application
+    url: https://con.ankerd.org
+  - name: dev.ankerd.org - Convention management application BETA
     url: https://dev.ankerd.org
-  - name: CDN
+  - name: cdn.ankerd.org - CDN
     url: https://cdn.ankerd.org/story-photos/0000000000553E25.jpg
-  - name: Nextcloud
+  - name: nextcloud.ankerd.org - Nextcloud
     url: https://nextcloud.ankerd.org
 
 status-website:
@@ -28,6 +32,12 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+  css: |
+    /* line + space after the 3rd site */
+    article:nth-of-type(3) {
+      margin-bottom: 2rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 2px solid #ddd;
+    }
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
