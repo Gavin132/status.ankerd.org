@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Gavin132 # Your GitHub organization or username, where this repository lives
+repo: status.ankerd.org # The name of this repository
 
 sites:
   - name: Main website
@@ -20,9 +20,9 @@ status-website:
   cname: status.ankerd.org
   # baseUrl: /your-repo-name
   logoUrl: https://media.discordapp.net/attachments/465068365472464906/1550523197965734009/ankerdmascotteankerdlogountitledcentre.png?ex=6aaea4c1&is=6aad5341&hm=0c5433e686468ef52eb293e6cc1d4dc03c2cd60a2dc6c694e0ee0e4d7fc9a1b2&=&format=webp&quality=lossless&width=1280&height=1280
-  name: ankerd Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: status.ankerd.org
+  introTitle: "Uptime monitor for all ankerd projects."
+  introMessage: All ankerd projects
   navbar:
     - title: Status
       href: /
