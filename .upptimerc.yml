@@ -6,9 +6,9 @@ sites:
   - name: ankerd.nl - Main website
     url: https://ankerd.nl
   - name: pws.ankerd.nl - A Mandelbrot simulation site
-    url: https://con.ankerd.org
+    url: https://pws.ankerd.nl
   - name: soc.ankerd.nl - Scheikunde moppen
-    url: https://con.ankerd.org
+    url: https://soc.ankerd.nl
   - name: con.ankerd.org - Convention management application
     url: https://con.ankerd.org
   - name: dev.ankerd.org - Convention management application BETA
