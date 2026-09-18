@@ -27,6 +27,7 @@ status-website:
   name: status.ankerd.org
   introTitle: "Uptime monitor for all ankerd projects."
   introMessage: All ankerd projects
+  theme: dark
   navbar:
     - title: Status
       href: /
