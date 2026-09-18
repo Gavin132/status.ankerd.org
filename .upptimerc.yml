@@ -17,6 +17,8 @@ sites:
     url: https://cdn.ankerd.org/story-photos/0000000000553E25.jpg
   - name: nextcloud.ankerd.org - Nextcloud
     url: https://nextcloud.ankerd.org
+  - name: wordpress.ankerd.org - Portfolio site
+    url: https://wordpress.ankerd.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
