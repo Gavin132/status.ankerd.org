@@ -10,7 +10,7 @@ sites:
   - name: Con App BETA
     url: https://dev.ankerd.org
   - name: CDN
-    url: https://cdn.ankerd.org
+    url: https://cdn.ankerd.org/story-photos/0000000000553E25.jpg
   - name: Nextcloud
     url: https://nextcloud.ankerd.org
 
