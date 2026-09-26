@@ -14,7 +14,7 @@ sites:
   - name: dev.ankerd.org - Convention management application BETA
     url: https://dev.ankerd.org
   - name: cdn.ankerd.org - CDN
-    url: https://cdn.ankerd.org/story-photos/0000000000553E25.jpg
+    url: https://cdn.ankerd.org/story-photos/uploads/b7509915fe6347e3948d583195fef248.jpg
   - name: nextcloud.ankerd.org - Nextcloud
     url: https://nextcloud.ankerd.org
   - name: wordpress.ankerd.org - Portfolio site
