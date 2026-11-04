@@ -130,17 +130,17 @@
     "url": "https://wordpress.ankerd.org",
     "icon": "https://icons.duckduckgo.com/ip3/wordpress.ankerd.org.ico",
     "slug": "wordpress-ankerd-org-portfolio-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1994,
-    "timeDay": 246,
-    "timeWeek": 400,
-    "timeMonth": 2321,
-    "timeYear": 1994,
+    "time": 1992,
+    "timeDay": 1052,
+    "timeWeek": 583,
+    "timeMonth": 2309,
+    "timeYear": 1992,
     "dailyMinutesDown": {}
   }
 ]
