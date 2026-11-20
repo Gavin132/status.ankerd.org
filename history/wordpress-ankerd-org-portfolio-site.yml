@@ -1,7 +1,7 @@
 url: https://wordpress.ankerd.org
-status: up
-code: 200
-responseTime: 1199
-lastUpdated: 2026-11-19T03:54:58.381Z
+status: down
+code: 400
+responseTime: 810
+lastUpdated: 2026-11-20T03:47:20.791Z
 startTime: 2026-09-18T19:32:22.494Z
 generator: Upptime <https://github.com/upptime/upptime>
