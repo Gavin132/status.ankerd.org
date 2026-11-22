@@ -1,7 +1,7 @@
 url: https://nextcloud.ankerd.org
-status: up
-code: 200
-responseTime: 1776
-lastUpdated: 2026-11-21T18:11:18.317Z
+status: down
+code: 502
+responseTime: 494
+lastUpdated: 2026-11-22T02:44:36.887Z
 startTime: 2026-09-18T18:18:16.238Z
 generator: Upptime <https://github.com/upptime/upptime>
